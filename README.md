@@ -1,7 +1,6 @@
 # Pizza Sales Analysis Dashboard using Power and SQL
 #  Pizza Sales Analysis Dashboard using Power and SQL
 
-### Dashboard Link : https://www.novypro.com/project/pizza-sales-report-61
 ## Problem Statement
 
 This Dashboard will analyse key indicators for the pizza sales data to gain insights into the business performance and for this analysis the following steps and calculation will do.
